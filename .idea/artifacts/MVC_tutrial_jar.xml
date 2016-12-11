@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MVC tutrial:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MVC_tutrial_jar</output-path>
+    <root id="archive" name="MVC tutrial.jar">
+      <element id="module-output" name="MVC tutrial" />
+    </root>
+  </artifact>
+</component>
